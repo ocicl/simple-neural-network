@@ -1,0 +1,10 @@
+* simple-neural-network
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://codeberg.org/glv/simple-neural-network.git   |
+| commit  |   |
+| systems | simple-neural-network |
+|---------+-------------------------------------------|
+
