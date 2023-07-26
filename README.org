@@ -1,10 +1,10 @@
 * simple-neural-network
 
+simple-neural-network is a Common Lisp library for creating, training
+and using basic neural networks.
 
-
-|---------+-------------------------------------------|
-| source  | git:https://codeberg.org/glv/simple-neural-network.git   |
-| commit  |   |
-| systems | simple-neural-network |
-|---------+-------------------------------------------|
-
+|---------+--------------------------------------------------------|
+| source  | git:https://codeberg.org/glv/simple-neural-network.git |
+| commit  | 2d30fac                                                |
+| systems | simple-neural-network                                  |
+|---------+--------------------------------------------------------|
