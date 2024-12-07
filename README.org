@@ -5,6 +5,6 @@ and using basic neural networks.
 
 |---------+--------------------------------------------------------|
 | source  | git:https://codeberg.org/glv/simple-neural-network.git |
-| commit  | 2d30fac                                                |
+| commit  | d24999b                                                |
 | systems | simple-neural-network                                  |
 |---------+--------------------------------------------------------|
